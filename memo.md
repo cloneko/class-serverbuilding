@@ -8,7 +8,8 @@
 ### Wordpress
 
 #### Wordpressチューニング
-
+apcをインストールした
+hiphopを活用した
 ### EC-CUBE
 
 ## DNSサーバー
