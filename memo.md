@@ -4,15 +4,17 @@
 ## 仮想化環境の構築
 
 ## LAMP環境の構築
+apache2 mysql PHP5 php5-mysql をインスールし、設定
 
-### Wordpress -a
+### Wordpress
 仮想マシンで色々インストールしてワードプレス立ち上げただけ
 
 #### Wordpressチューニング
 
 ### EC-CUBE
+仮想環境で、ec-cubeをインストールし、設定
 
-## DNSサーバー -a
+## DNSサーバー
 自分の居場所をDIGできるようにした
 
 ### bind?
@@ -24,6 +26,7 @@
 ソフトを使わず仮想化？だったはず
 
 ## git
+gitの設定？
 
 ## 試験範囲
 
