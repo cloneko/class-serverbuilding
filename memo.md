@@ -10,7 +10,8 @@ apache2 mysql PHP5 php5-mysql をインスールし、設定
 仮想マシンで色々インストールしてワードプレス立ち上げただけ
 
 #### Wordpressチューニング
-
+apcをインストールした
+hiphopを活用した
 ### EC-CUBE
 仮想環境で、ec-cubeをインストールし、設定
 
@@ -21,7 +22,7 @@ apache2 mysql PHP5 php5-mysql をインスールし、設定
 上のDNSサーバーの授業の時につかった代表的な（難しい）やつ
 
 ## chef
-
+make使って1度に実行した
 ## docker
 ソフトを使わず仮想化？だったはず
 
