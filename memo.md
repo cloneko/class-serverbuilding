@@ -17,7 +17,7 @@ hiphopを活用した
 ### bind?
 
 ## chef
-
+make使って1度に実行した
 ## docker
 
 ## git
